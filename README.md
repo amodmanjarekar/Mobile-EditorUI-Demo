@@ -1,4 +1,4 @@
-# Text Editor UI (Demo)
+# Editor UI (Demo)
 
 A Flutter app which lets you add text to a canvas, move it around, and make simple changes to it.
 
