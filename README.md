@@ -1,16 +1,8 @@
-# editor_ui_demo
+# Text Editor UI (Demo)
 
-A new Flutter project.
+A Flutter app which lets you add text to a canvas, move it around, and make simple changes to it.
 
-## Getting Started
+## Builds
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Android builds for this application can be downloaded at the following link:
+https://github.com/amodmanjarekar/Mobile-EditorUI-Demo.git
